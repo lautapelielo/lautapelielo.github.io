@@ -3,7 +3,10 @@ import json
 import math
 import time
 
-tulokset = sys.argv[1].split(",")
+if len(sys.argv) > 1:
+	tulokset = sys.argv[1].split(",")
+else:
+	tulokset = []
 uusi_lelo = 1500
 K = 20
 #30 paivaa sekunteina
