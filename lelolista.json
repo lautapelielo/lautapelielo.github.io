@@ -1,0 +1,60 @@
+{
+    "pelaajat": [
+        {
+            "nimi": "roni",
+            "lelo": 1641.1,
+            "muuttuva_lelo": 1641.1,
+            "aktiivisuus": 1749230941,
+            "tulos": -1
+        },
+        {
+            "nimi": "pauliina",
+            "lelo": 1631.26,
+            "muuttuva_lelo": 1631.26,
+            "aktiivisuus": 1749241605,
+            "tulos": -1
+        },
+        {
+            "nimi": "lari",
+            "lelo": 1539.58,
+            "muuttuva_lelo": 1539.58,
+            "aktiivisuus": 1749241605,
+            "tulos": -1
+        },
+        {
+            "nimi": "joona",
+            "lelo": 1519.4,
+            "muuttuva_lelo": 1519.4,
+            "aktiivisuus": 1749230941,
+            "tulos": -1
+        },
+        {
+            "nimi": "riku",
+            "lelo": 1516.4,
+            "muuttuva_lelo": 1516.4,
+            "aktiivisuus": 1749230941,
+            "tulos": -1
+        },
+        {
+            "nimi": "aaron",
+            "lelo": 1541.13,
+            "muuttuva_lelo": 1541.13,
+            "aktiivisuus": 1749241605,
+            "tulos": -1
+        },
+        {
+            "nimi": "tuomas",
+            "lelo": 1496.74,
+            "muuttuva_lelo": 1496.74,
+            "aktiivisuus": 1749241605,
+            "tulos": -1
+        },
+        {
+            "nimi": "vilka",
+            "lelo": 1422.89,
+            "muuttuva_lelo": 1422.89,
+            "aktiivisuus": 1749241605,
+            "tulos": -1
+        }
+    ]
+}
