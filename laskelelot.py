@@ -2,6 +2,7 @@ import sys
 import json
 import math
 import time
+import os
 
 if len(sys.argv) > 1:
 	tulokset = sys.argv[1].split(",")
@@ -105,3 +106,7 @@ strHTML = strHTML + '</div>'
 
 with open("index.html", "a") as f:
 	f.write(strHTML)
+	
+os.system('git add .')
+os.system('git commit -m "lista päivitys" .')
+os.system('git push')
